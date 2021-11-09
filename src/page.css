@@ -1,0 +1,13 @@
+
+.wrapper {
+  
+  
+  background: url("../media/bg-img.svg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  
+}
+
+ul {
+    text-align: left;
+}
