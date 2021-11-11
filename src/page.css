@@ -5,9 +5,19 @@
   background: url("../media/bg-img.svg");
   background-repeat: no-repeat;
   background-size: auto;
+  font-family: 'Poppins', sans-serif;
   
 }
 
 ul {
     text-align: left;
+}
+
+h1{
+    font-size: 72px;
+
+}
+.about {
+    font-size:52px;
+    font-family:monospace;
 }
