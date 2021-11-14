@@ -1,23 +1,22 @@
-
 .wrapper {
-  
-  
   background: url("../media/bg-img.svg");
   background-repeat: no-repeat;
   background-size: auto;
-  font-family: 'Poppins', sans-serif;
-  
+  font-family: "Poppins", sans-serif;
 }
 
 ul {
-    text-align: left;
+  text-align: left;
+}
+h1 {
+  font-size: 3em;
 }
 
-h1{
-    font-size: 72px;
-
+.name1 {
+  font-family: monospace;
 }
-.about {
-    font-size:52px;
-    font-family:monospace;
+body {
+  background-image: url("../media/bg5.jpg");
+  background-size: 1324px 675px;
+  background-repeat: no-repeat;
 }

@@ -1,0 +1,14 @@
+.about {
+  font-size: 52px;
+  font-family: monospace;
+}
+.wrapper2 {
+  background-image: url("../media/blobimg.about.svg");
+  background-repeat: no-repeat;
+
+  background-size: contain;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #dfe1e0;
+}
