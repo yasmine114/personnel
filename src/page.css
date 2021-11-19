@@ -20,3 +20,12 @@ body {
   background-size: 1324px 675px;
   background-repeat: no-repeat;
 }
+@media screen and (max-width: 786px) {
+  h1,
+  h3 {
+    text-align: center;
+  }
+  body {
+    background-size: 600px 1800px;
+  }
+}
