@@ -21,14 +21,23 @@ body {
   background-repeat: no-repeat;
 }
 @media screen and (max-width: 786px) {
-  h1,
-  h3 {
+  h1 {
     text-align: center;
+    font-size: 120px;
   }
+
   body {
-    background-size: 600px 1800px;
+    background-size: 600px 800px;
+    background-image: url("../media/phonebg1.jpg");
+  }
+  .hero {
+    padding-top: 30px;
+    text-align: center;
   }
 }
 .warpper3 {
-  background-color: dcdedd;
+  background-color: #dcdedd;
+}
+.hero {
+  background-color: #c9cbc6;
 }
