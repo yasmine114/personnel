@@ -9,7 +9,7 @@ ul {
   text-align: left;
 }
 h1 {
-  font-size: 3em;
+  font-size: 70px;
 }
 
 .name1 {
@@ -27,7 +27,7 @@ body {
   }
 
   body {
-    background-size: 800px 800px;
+    background-size: 700px 800px;
     background-image: url("../media/phonebg1.jpg");
   }
   .hero {
@@ -40,4 +40,17 @@ body {
 }
 .hero {
   background-color: #c9cbc6;
+  text-align: center;
+}
+
+.tools-used {
+  background-color: #c9cbc6;
+  font-size: 80px;
+  text-align: center;
+  color: #5c597e;
+}
+.fab {
+  padding-right: 30px;
+
+  text-align: center;
 }
