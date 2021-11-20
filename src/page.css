@@ -20,7 +20,7 @@ body {
   background-size: 1324px 675px;
   background-repeat: no-repeat;
 }
-@media screen and (max-width: 786px) {
+@media screen and (max-width: 886px) {
   h1 {
     text-align: center;
     font-size: 120px;
