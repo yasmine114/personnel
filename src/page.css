@@ -1,15 +1,12 @@
 .wrapper {
-  background: url("../media/bg-img.svg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  font-family: "Poppins", sans-serif;
+  font-family: "Source Code Pro", sans-serif;
 }
 
 ul {
   text-align: left;
 }
 h1 {
-  font-size: 70px;
+  font-size: 90px;
 }
 
 .name1 {
